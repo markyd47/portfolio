@@ -38,7 +38,8 @@ p{
 }
 
 main {
-  background-color: gold
+  background-color: gold;
+  height: ;
 }
 
 ol {
@@ -53,12 +54,10 @@ a:active {color:darkblue}
 
 img {
   image: center;
+  height: auto;
+  
 }
 
 header h2 {
   color: white
-}
-
-footer {
-  height: 30px;
 }
